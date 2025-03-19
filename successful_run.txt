@@ -1,0 +1,3 @@
+Zabbix Server Docker-Scout SBOM/SCA scan
+
+https://github.com/TolisKlk/Zabbix-server-Docker-Scout/actions/runs/13951123333
