@@ -8,7 +8,7 @@ on:
         docker_image:
           description: 'The Docker image to scan'
           required: true
-          default: 'some-zabbix-server-pgsql'
+          default: 'zabbix/zabbix-server-pgsql:centos-7.2-latest'
 
 # env:
 #   REGISTRY: ghcr.io
